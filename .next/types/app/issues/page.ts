@@ -1,4 +1,4 @@
-// File: /Users/tuvshin/Desktop/issue-trackers/app/issues/page.tsx
+// File: /Users/munkhtuvshintuvshin/Desktop/REPO/issue-trackers/app/issues/page.tsx
 import * as entry from '../../../../app/issues/page.js'
 import type { ResolvingMetadata } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

@@ -1,4 +1,4 @@
-// File: /Users/tuvshin/Desktop/issue-trackers/app/layout.tsx
+// File: /Users/munkhtuvshintuvshin/Desktop/REPO/issue-trackers/app/layout.tsx
 import * as entry from '../../../app/layout.js'
 import type { ResolvingMetadata } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
